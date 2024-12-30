@@ -1,0 +1,2 @@
+3. Add AOP for logging web elements
+5. Asserts
